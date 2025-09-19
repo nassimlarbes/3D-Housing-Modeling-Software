@@ -45,7 +45,7 @@ ChalCLT est une application interactive conçue pour la modélisation et l’exp
 
 ---
 
-# ChalCLT – 2D Modeling & Export Tool for CLT Chalet Panels  
+# ChalCLT – 3D Housing Modeling Software  
 **(Version française ci-dessus)**
 
 ## Description
