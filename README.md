@@ -1,4 +1,4 @@
-# ChalCLT – 2D Modeling & Export Tool for Chalet Panels  
+# ChalCLT – 3D Housing Modeling Software 
 **(English version follows below)**
 
 > Ce projet a été développé à l’automne 2023 sous la supervision du professeur **Marc-Philippe Parent**, dans le cadre du cours **GLO-2004 – Génie logiciel orienté objet** à l’Université Laval.
